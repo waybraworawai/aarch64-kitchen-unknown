@@ -7,4 +7,4 @@ also supports these architectures:
 - any-kitchen-halal
 - any-kitchen-nutfree
 - any-kitchen-vegan
-
+- any-kitchen-paleo
