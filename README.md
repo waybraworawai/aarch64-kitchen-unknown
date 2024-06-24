@@ -1,6 +1,6 @@
 ### any-kitchen-unknown
 
-also supports these architectures:
+my version of `rustc` also supports these target architectures:
 
 - any-kitchen-kosher
 - any-kitchen-halal
